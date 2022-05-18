@@ -24,3 +24,9 @@ float: right;
 .achievements_text span{
 color: aquamarine;
 }
+.new{
+margin-bottom: 20px;
+}
+#contact iframe{
+width: 100%;
+}
